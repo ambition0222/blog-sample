@@ -29,7 +29,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            // 'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/ambition0222/blog-sample/tree/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
